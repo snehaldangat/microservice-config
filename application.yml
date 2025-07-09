@@ -1,4 +1,4 @@
-spring:
+Spring:
   application:
      name: "Config-Default"
 
